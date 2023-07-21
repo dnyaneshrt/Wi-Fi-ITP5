@@ -12,7 +12,7 @@ class WelcomeActivity : AppCompatActivity() {
 
        Handler().postDelayed(Runnable { startActivity(Intent(this@WelcomeActivity,LoginActivity::class.java))
                                       finish()
-                                      },3000)
+                                      },5000)
 
     /*    new Handler().postDelayed(new Runnable() {
             @Override

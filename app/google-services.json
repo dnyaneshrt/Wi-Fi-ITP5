@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203395053224",
+    "project_id": "mywifi-9b303",
+    "storage_bucket": "mywifi-9b303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203395053224:android:14c6a5546f1535787eb49d",
+        "android_client_info": {
+          "package_name": "com.itp.mywifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203395053224-3fun6ans13atn3odgtqc799r2hek2urp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBfhtSesr2IWEtpLWk_8AneBd3aK9Z6cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203395053224-3fun6ans13atn3odgtqc799r2hek2urp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
